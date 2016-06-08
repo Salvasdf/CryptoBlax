@@ -1,0 +1,9 @@
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\bin\Debug\CryptoBlax2.exe.config
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\bin\Debug\CryptoBlax2.exe
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\bin\Debug\CryptoBlax2.pdb
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\obj\Debug\CryptoBlax2.Principal.resources
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\obj\Debug\CryptoBlax2.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\obj\Debug\CryptoBlax2.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\obj\Debug\CryptoBlax2.exe
+D:\Documentos\Visual Studio 2015\Projects\CryptoBlax2\CryptoBlax2\obj\Debug\CryptoBlax2.pdb
